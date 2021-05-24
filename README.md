@@ -13,4 +13,4 @@ $ yarn add styled-components # npm install styled-components
 **Running the App**
 ```
 $ yarn start # npm start
-```# Markdown-Editor
+```
