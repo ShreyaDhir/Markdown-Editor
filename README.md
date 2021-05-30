@@ -1,3 +1,4 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ShreyaDhir/Markdown-Editor)
 # Markdown Editor
 
 ![Markdown-Editor Prototype](https://github.com/ShreyaDhir/Markdown-Editor/blob/main/public/mde.png?raw=true)
